@@ -1,0 +1,32 @@
+table {
+  border-collapse: collapse;
+  width: 40%;
+  display: table-header-group;
+}
+td,th {
+  text-align: center;
+  vertical-align: middle;
+  border: 1px solid #333;
+  padding: 0.8em;
+}
+th {
+  background-color: #c0c0c0;
+}
+h3 {
+  color: #ff0000;
+}
+li {
+  font-size: 140%;
+  font-weight: bold;
+}
+h1 {
+  background-color: #24140e;
+  color: #ffffff;
+}
+h4 {
+  font-size: 120%;
+}
+a {
+  font-size: 200%;
+  font-weight: bold;
+}
